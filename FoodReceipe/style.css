@@ -1,0 +1,53 @@
+.health-badge{
+    color: white;
+    margin: 1px 2px;
+  }
+
+  .card {
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center;
+    border-radius: 60%;
+  
+  }
+
+  .badge{
+      color: white;
+      margin: 1px 2px;
+  }
+
+  .container{
+      text-align: center;
+  }
+
+
+  .header{
+    position: relative;
+    background: url("header.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 340px;
+    text-align: center;
+    padding-top: 50px;
+  }
+
+  .heading{
+      font-size: 60px;
+      font-family: cursive;
+      color: rgb(238, 55, 55);
+      width: 90px;
+
+
+  }
+
+  .a{
+    color:white;
+    text-decoration: none;
+  }
+
+  .content-div{
+    background: url("body.jpg");
+    justify-content: center;
+  }
